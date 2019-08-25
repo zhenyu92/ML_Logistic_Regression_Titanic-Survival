@@ -1,4 +1,4 @@
-# A study on Titanic Passenger Survival Prediction using Logistic Regression.
+# A study on Titanic Passenger Survival Classification using Logistic Regression.
 This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
