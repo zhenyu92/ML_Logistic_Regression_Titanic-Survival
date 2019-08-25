@@ -32,7 +32,7 @@ Survived: Survival (0 = No, 1 = Yes)
 ### Environment Prerequisites
 `Jupyter Notebook` for Python scripting.
 
-### Instruction
+### Instructions
 1. Downloaded the [dataset](https://github.com/zhenyu92/ML_Logistic_Regression_Titanic_Survival/blob/master/Train_Titanic.csv).
 2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Logistic_Regression_Titanic_Survival/blob/master/Logistic%20Regression%20-%20Titanic%20Survival.ipynb).
     The following will be covered, and return a prediction.
